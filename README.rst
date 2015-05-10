@@ -2,7 +2,7 @@ Django SweetCAptcha
 ================
 **Django SweetCaptcha form field/widget integration app.**
 
-django-sweetcaptcha provides a form field to integrate the **[sweetCaptcha](http://sweetcaptcha.com/) service.
+django-sweetcaptcha provides a form field to integrate the `sweetCaptcha <http://www.sweetcaptcha.com/>`_ service.
 
 
 Installation
@@ -12,7 +12,7 @@ Installation
 
 #. Add ``sweetcaptcha`` to your ``INSTALLED_APPS`` setting.
 
-#. Register your sweetCaptcha account **[here](http://www.sweetcaptcha.com/accounts/signup)**.
+#. Register your sweetCaptcha account `here <http://www.sweetcaptcha.com/accounts/signup>`_.
 
 #. Add ``SWEETCAPTCHA_APP_ID`` and ``SWEETCAPTCHA_APP_KEY`` settings to the project's ``settings.py`` file. These settings are provided by the previous step.
 
@@ -45,7 +45,8 @@ If specified these parameters will be used instead the ones specified in your pr
 Credits
 -------
 
-``client.py`` taken from `sweetcaptcha <https://pypi.python.org/pypi/sweetcaptcha>` by Jaime Wyant
+``client.py`` taken from `sweetcaptcha <https://pypi.python.org/pypi/sweetcaptcha>`_ by Jaime Wyant
 .
 
-sweetCaptcha [http://sweetcaptcha.com/](http://sweetcaptcha.com/)
+Thanks to `sweetcaptcha <http://www.sweetcaptcha.com/>`_
+
