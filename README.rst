@@ -1,4 +1,4 @@
-Django SweetCAptcha
+Django SweetCaptcha
 ================
 **Django SweetCaptcha form field/widget integration app.**
 
