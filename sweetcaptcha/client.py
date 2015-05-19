@@ -70,4 +70,4 @@ def check(app_id, app_key, sckey, scvalue):
 
 if __name__ == '__main__':
     import sys
-    print get_html(sys.argv[1], sys.argv[2])
+    print(get_html(sys.argv[1], sys.argv[2]))
