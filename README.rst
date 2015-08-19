@@ -1,3 +1,5 @@
+**IMPORTANT MALWARE ISSUE: https://blog.sucuri.net/2015/06/sweetcaptcha-service-used-to-distribute-adware.html** 
+
 Django SweetCaptcha
 ================
 **Django SweetCaptcha form field/widget integration app.**
